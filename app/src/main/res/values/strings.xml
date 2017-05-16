@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">El Gamal</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Info</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_ecp">Signature</string>
+    <string name="hint_encrypt">Type message or choose file to encrypt...</string>
+    <string name="hint_decrypt">Choose message to decrypt...</string>
+</resources>
